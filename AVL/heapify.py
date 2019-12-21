@@ -88,7 +88,6 @@ if __name__ == "__main__":
     while len(l1.arr):
         elm = l1.pop()
         print(elm)
-        ## print("===========> " + str(l1.arr))
-        ## l1.printTree()
+
     
     
