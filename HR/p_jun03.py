@@ -1,3 +1,3 @@
 import math
 print("================================")
-print("Privet")
+print("Privet and Privet")
